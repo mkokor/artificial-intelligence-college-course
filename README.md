@@ -6,6 +6,12 @@
 
 ## Execution
 
+Use the command bellow to install module.
+
+```bash
+pip3 install moduleName
+```
+
 Use the command bellow to run scripts.
 
 ```bash
