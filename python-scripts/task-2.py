@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 
 # LOADING DATA
-data = pd.read_csv("/data/stackoverflow-questions.csv")
+data = pd.read_csv("../data/stackoverflow-questions.csv")
 print(f"Last three rows: {data.tail(3)}")
 
 

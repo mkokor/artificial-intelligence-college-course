@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 # LOADING DATA
 # Adjust file path!
-data = pd.read_table("/data/spam-detection-data.txt", sep = ",")
+data = pd.read_table("../data/spam-detection-data.txt", sep = ",")
 print(data.head(3))
 
 
