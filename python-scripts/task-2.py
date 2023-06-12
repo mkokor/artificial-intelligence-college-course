@@ -9,7 +9,8 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 
 
-data = pd.read_csv("/report.csv", na_values = "/")
+# Adjust file path!
+data = pd.read_csv("../report.csv", na_values = "/")
 
 # Creating imputers for handling NaN values...
 simpleImputerMedian = SimpleImputer(strategy = "median")                                                                                               

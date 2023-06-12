@@ -5,7 +5,8 @@ import numpy as np
 import pandas as pd
 
 # Loading data from CSV file (with replacement of "/" values to NaN values)...
-data = pd.read_csv("/report.csv", na_values = "/")                                                                          					
+# Adjust file path!
+data = pd.read_csv("../report.csv", na_values = "/")                                                                          					
 
 # Reading first 5 rows...
 print(data.head(10))                                                                                                        						 
