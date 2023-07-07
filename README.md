@@ -9,11 +9,11 @@
 Use the command bellow to install module.
 
 ```bash
-pip3 install moduleName
+pip3 install module-name
 ```
 
 Use the command bellow to run scripts.
 
 ```bash
-python scriptName.py
+python script-name.py
 ```
