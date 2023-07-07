@@ -6,13 +6,13 @@
 
 ## Execution
 
-Use the command bellow to install module.
+Use the command below to install module.
 
 ```bash
 pip3 install module-name
 ```
 
-Use the command bellow to run scripts.
+Use the command below to run scripts.
 
 ```bash
 python script-name.py
